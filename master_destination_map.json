@@ -1,0 +1,1274 @@
+{
+  "Osc A Level": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamVolume"
+  },
+  "Osc A Pan": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 2,
+    "param_name": "kParamPan"
+  },
+  "Osc A Octave": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 3,
+    "param_name": "kParamOctave"
+  },
+  "Osc A Semi": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 4,
+    "param_name": "kParamPitch"
+  },
+  "Osc A Fine": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 5,
+    "param_name": "kParamFine"
+  },
+  "Osc A Coarse Pitch": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 6,
+    "param_name": "kParamCoarsePit"
+  },
+  "Osc A Ratio": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 7,
+    "param_name": "kParamPitchRatio"
+  },
+  "Osc A Hz Offset": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 8,
+    "param_name": "kParamHzOffset"
+  },
+  "Osc A Detune": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 26,
+    "param_name": "kParamDetune"
+  },
+  "Osc A Uni Blend": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 27,
+    "param_name": "kParamDetuneWid"
+  },
+  "Osc A Uni Width": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 28,
+    "param_name": "kParamUnisonStereo"
+  },
+  "Osc A Uni Range": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 44,
+    "param_name": "kParamUnisonRange"
+  },
+  "Osc A Uni Rotate": {
+    "module_type": "Oscillator",
+    "module_id": 0,
+    "param_id": 45,
+    "param_name": "kParamUnisonRotate"
+  },
+  "Osc A Warp": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamWarp"
+  },
+  "Osc A Warp Var": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamWarpVar"
+  },
+  "Osc A Warp 2": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 3,
+    "param_name": "kParamWarp2"
+  },
+  "Osc A Warp 2 Var": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 4,
+    "param_name": "kParamWarpVar2"
+  },
+  "Osc A WT Pos": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 6,
+    "param_name": "kParamTablePos"
+  },
+  "Osc A Uni WT Pos": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 7,
+    "param_name": "kParamUnisonWTPos"
+  },
+  "Osc A Phase": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 8,
+    "param_name": "kParamInitialPhase"
+  },
+  "Osc A Rand Phase": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 9,
+    "param_name": "kParamRandomPhase"
+  },
+  "Osc B Level": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 1,
+    "param_name": "kParamVolume"
+  },
+  "Osc B Pan": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 2,
+    "param_name": "kParamPan"
+  },
+  "Osc B Octave": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 3,
+    "param_name": "kParamOctave"
+  },
+  "Osc B Semi": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 4,
+    "param_name": "kParamPitch"
+  },
+  "Osc B Fine": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 5,
+    "param_name": "kParamFine"
+  },
+  "Osc B Coarse Pitch": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 6,
+    "param_name": "kParamCoarsePit"
+  },
+  "Osc B Ratio": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 7,
+    "param_name": "kParamPitchRatio"
+  },
+  "Osc B Hz Offset": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 8,
+    "param_name": "kParamHzOffset"
+  },
+  "Osc B Detune": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 26,
+    "param_name": "kParamDetune"
+  },
+  "Osc B Uni Blend": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 27,
+    "param_name": "kParamDetuneWid"
+  },
+  "Osc B Uni Width": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 28,
+    "param_name": "kParamUnisonStereo"
+  },
+  "Osc B Uni Range": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 44,
+    "param_name": "kParamUnisonRange"
+  },
+  "Osc B Uni Rotate": {
+    "module_type": "Oscillator",
+    "module_id": 1,
+    "param_id": 45,
+    "param_name": "kParamUnisonRotate"
+  },
+  "Osc B Rand Phase": {
+    "module_type": "WTOsc",
+    "module_id": 1,
+    "param_id": 9,
+    "param_name": "kParamRandomPhase"
+  },
+  "Osc C Level": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 1,
+    "param_name": "kParamVolume"
+  },
+  "Osc C Pan": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 2,
+    "param_name": "kParamPan"
+  },
+  "Osc C Octave": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 3,
+    "param_name": "kParamOctave"
+  },
+  "Osc C Semi": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 4,
+    "param_name": "kParamPitch"
+  },
+  "Osc C Fine": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 5,
+    "param_name": "kParamFine"
+  },
+  "Osc C Coarse Pitch": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 6,
+    "param_name": "kParamCoarsePit"
+  },
+  "Osc C Ratio": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 7,
+    "param_name": "kParamPitchRatio"
+  },
+  "Osc C Hz Offset": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 8,
+    "param_name": "kParamHzOffset"
+  },
+  "Osc C Detune": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 26,
+    "param_name": "kParamDetune"
+  },
+  "Osc C Uni Blend": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 27,
+    "param_name": "kParamDetuneWid"
+  },
+  "Osc C Uni Width": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 28,
+    "param_name": "kParamUnisonStereo"
+  },
+  "Osc C Uni Range": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 44,
+    "param_name": "kParamUnisonRange"
+  },
+  "Osc C Uni Rotate": {
+    "module_type": "Oscillator",
+    "module_id": 2,
+    "param_id": 45,
+    "param_name": "kParamUnisonRotate"
+  },
+  "Osc C Rand Phase": {
+    "module_type": "WTOsc",
+    "module_id": 2,
+    "param_id": 9,
+    "param_name": "kParamRandomPhase"
+  },
+  "Filter 1 Wet": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamWet"
+  },
+  "Filter 1 Freq": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 2,
+    "param_name": "kParamFreq"
+  },
+  "Filter 1 Res": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 3,
+    "param_name": "kParamReso"
+  },
+  "Filter 1 Drive": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 4,
+    "param_name": "kParamDrive"
+  },
+  "Filter 1 Var": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 5,
+    "param_name": "kParamVar"
+  },
+  "Filter 1 Stereo": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 6,
+    "param_name": "kParamStereo"
+  },
+  "Filter 1 Level": {
+    "module_type": "VoiceFilter",
+    "module_id": 0,
+    "param_id": 8,
+    "param_name": "kParamLevelOut"
+  },
+  "Filter 2 Wet": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 1,
+    "param_name": "kParamWet"
+  },
+  "Filter 2 Freq": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 2,
+    "param_name": "kParamFreq"
+  },
+  "Filter 2 Res": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 3,
+    "param_name": "kParamReso"
+  },
+  "Filter 2 Drive": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 4,
+    "param_name": "kParamDrive"
+  },
+  "Filter 2 Var": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 5,
+    "param_name": "kParamVar"
+  },
+  "Filter 2 Stereo": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 6,
+    "param_name": "kParamStereo"
+  },
+  "Filter 2 Level": {
+    "module_type": "VoiceFilter",
+    "module_id": 1,
+    "param_id": 8,
+    "param_name": "kParamLevelOut"
+  },
+  "Env 1 Attack": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamAttack"
+  },
+  "Env 1 Hold": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamHold"
+  },
+  "Env 1 Decay": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 2,
+    "param_name": "kParamDecay"
+  },
+  "Env 1 Sustain": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 3,
+    "param_name": "kParamSustain"
+  },
+  "Env 1 Release": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 4,
+    "param_name": "kParamRelease"
+  },
+  "Env 1 Atk Curve": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 5,
+    "param_name": "kParamCurve1"
+  },
+  "Env 1 Dec Curve": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 6,
+    "param_name": "kParamCurve2"
+  },
+  "Env 1 Rel Curve": {
+    "module_type": "Env",
+    "module_id": 0,
+    "param_id": 7,
+    "param_name": "kParamCurve3"
+  },
+  "Env 4 Attack": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 0,
+    "param_name": "kParamAttack"
+  },
+  "Env 4 Hold": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 1,
+    "param_name": "kParamHold"
+  },
+  "Env 4 Decay": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 2,
+    "param_name": "kParamDecay"
+  },
+  "Env 4 Sustain": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 3,
+    "param_name": "kParamSustain"
+  },
+  "Env 4 Release": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 4,
+    "param_name": "kParamRelease"
+  },
+  "Env 4 Atk Curve": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 5,
+    "param_name": "kParamCurve1"
+  },
+  "Env 4 Dec Curve": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 6,
+    "param_name": "kParamCurve2"
+  },
+  "Env 4 Rel Curve": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 7,
+    "param_name": "kParamCurve3"
+  },
+  "Env 4 Start": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 8,
+    "param_name": "kParamStart"
+  },
+  "Env 4 End": {
+    "module_type": "Env",
+    "module_id": 3,
+    "param_id": 9,
+    "param_name": "kParamEnd"
+  },
+  "Env 2 Attack": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 0,
+    "param_name": "kParamAttack"
+  },
+  "Env 2 Hold": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 1,
+    "param_name": "kParamHold"
+  },
+  "Env 2 Decay": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 2,
+    "param_name": "kParamDecay"
+  },
+  "Env 2 Sustain": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 3,
+    "param_name": "kParamSustain"
+  },
+  "Env 2 Release": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 4,
+    "param_name": "kParamRelease"
+  },
+  "Env 2 Atk Curve": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 5,
+    "param_name": "kParamCurve1"
+  },
+  "Env 2 Dec Curve": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 6,
+    "param_name": "kParamCurve2"
+  },
+  "Env 2 Rel Curve": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 7,
+    "param_name": "kParamCurve3"
+  },
+  "Env 2 Start": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 8,
+    "param_name": "kParamStart"
+  },
+  "Env 2 End": {
+    "module_type": "Env",
+    "module_id": 1,
+    "param_id": 9,
+    "param_name": "kParamEnd"
+  },
+  "Env 3 Attack": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 0,
+    "param_name": "kParamAttack"
+  },
+  "Env 3 Hold": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 1,
+    "param_name": "kParamHold"
+  },
+  "Env 3 Decay": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 2,
+    "param_name": "kParamDecay"
+  },
+  "Env 3 Sustain": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 3,
+    "param_name": "kParamSustain"
+  },
+  "Env 3 Release": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 4,
+    "param_name": "kParamRelease"
+  },
+  "Env 3 Atk Curve": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 5,
+    "param_name": "kParamCurve1"
+  },
+  "Env 3 Dec Curve": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 6,
+    "param_name": "kParamCurve2"
+  },
+  "Env 3 Rel Curve": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 7,
+    "param_name": "kParamCurve3"
+  },
+  "Env 3 Start": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 8,
+    "param_name": "kParamStart"
+  },
+  "Env 3 End": {
+    "module_type": "Env",
+    "module_id": 2,
+    "param_id": 9,
+    "param_name": "kParamEnd"
+  },
+  "LFO 1 Rate": {
+    "module_type": "LFO",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 1 Smooth": {
+    "module_type": "LFO",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 1 Rise": {
+    "module_type": "LFO",
+    "module_id": 0,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 1 Delay": {
+    "module_type": "LFO",
+    "module_id": 0,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 1 Phase": {
+    "module_type": "LFO",
+    "module_id": 0,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 2 Rate": {
+    "module_type": "LFO",
+    "module_id": 1,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 2 Smooth": {
+    "module_type": "LFO",
+    "module_id": 1,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 2 Rise": {
+    "module_type": "LFO",
+    "module_id": 1,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 2 Delay": {
+    "module_type": "LFO",
+    "module_id": 1,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 2 Phase": {
+    "module_type": "LFO",
+    "module_id": 1,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 3 Rate": {
+    "module_type": "LFO",
+    "module_id": 2,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 3 Smooth": {
+    "module_type": "LFO",
+    "module_id": 2,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 3 Rise": {
+    "module_type": "LFO",
+    "module_id": 2,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 3 Delay": {
+    "module_type": "LFO",
+    "module_id": 2,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 3 Phase": {
+    "module_type": "LFO",
+    "module_id": 2,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 4 Rate": {
+    "module_type": "LFO",
+    "module_id": 3,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 4 Smooth": {
+    "module_type": "LFO",
+    "module_id": 3,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 4 Rise": {
+    "module_type": "LFO",
+    "module_id": 3,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 4 Delay": {
+    "module_type": "LFO",
+    "module_id": 3,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 4 Phase": {
+    "module_type": "LFO",
+    "module_id": 3,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 5 Rate": {
+    "module_type": "LFO",
+    "module_id": 4,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 5 Smooth": {
+    "module_type": "LFO",
+    "module_id": 4,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 5 Rise": {
+    "module_type": "LFO",
+    "module_id": 4,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 5 Delay": {
+    "module_type": "LFO",
+    "module_id": 4,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 5 Phase": {
+    "module_type": "LFO",
+    "module_id": 4,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 6 Rate": {
+    "module_type": "LFO",
+    "module_id": 5,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 6 Smooth": {
+    "module_type": "LFO",
+    "module_id": 5,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 6 Rise": {
+    "module_type": "LFO",
+    "module_id": 5,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 6 Delay": {
+    "module_type": "LFO",
+    "module_id": 5,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 6 Phase": {
+    "module_type": "LFO",
+    "module_id": 5,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 7 Rate": {
+    "module_type": "LFO",
+    "module_id": 6,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 7 Smooth": {
+    "module_type": "LFO",
+    "module_id": 6,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 7 Rise": {
+    "module_type": "LFO",
+    "module_id": 6,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 7 Delay": {
+    "module_type": "LFO",
+    "module_id": 6,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 7 Phase": {
+    "module_type": "LFO",
+    "module_id": 6,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 8 Rate": {
+    "module_type": "LFO",
+    "module_id": 7,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 8 Smooth": {
+    "module_type": "LFO",
+    "module_id": 7,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 8 Rise": {
+    "module_type": "LFO",
+    "module_id": 7,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 8 Delay": {
+    "module_type": "LFO",
+    "module_id": 7,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 8 Phase": {
+    "module_type": "LFO",
+    "module_id": 7,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 9 Rate": {
+    "module_type": "LFO",
+    "module_id": 8,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 9 Smooth": {
+    "module_type": "LFO",
+    "module_id": 8,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 9 Rise": {
+    "module_type": "LFO",
+    "module_id": 8,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 9 Delay": {
+    "module_type": "LFO",
+    "module_id": 8,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 9 Phase": {
+    "module_type": "LFO",
+    "module_id": 8,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "LFO 10 Rate": {
+    "module_type": "LFO",
+    "module_id": 9,
+    "param_id": 0,
+    "param_name": "kParamRate"
+  },
+  "LFO 10 Smooth": {
+    "module_type": "LFO",
+    "module_id": 9,
+    "param_id": 1,
+    "param_name": "kParamSmooth"
+  },
+  "LFO 10 Rise": {
+    "module_type": "LFO",
+    "module_id": 9,
+    "param_id": 2,
+    "param_name": "kParamRise"
+  },
+  "LFO 10 Delay": {
+    "module_type": "LFO",
+    "module_id": 9,
+    "param_id": 3,
+    "param_name": "kParamDelay"
+  },
+  "LFO 10 Phase": {
+    "module_type": "LFO",
+    "module_id": 9,
+    "param_id": 4,
+    "param_name": "kParamPhase"
+  },
+  "Macros Macro 1": {
+    "module_type": "Macro",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 2": {
+    "module_type": "Macro",
+    "module_id": 1,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 3": {
+    "module_type": "Macro",
+    "module_id": 2,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 4": {
+    "module_type": "Macro",
+    "module_id": 3,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 5": {
+    "module_type": "Macro",
+    "module_id": 4,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 6": {
+    "module_type": "Macro",
+    "module_id": 5,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 7": {
+    "module_type": "Macro",
+    "module_id": 6,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Macros Macro 8": {
+    "module_type": "Macro",
+    "module_id": 7,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 1": {
+    "module_type": "LFOPointModBus",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 2": {
+    "module_type": "LFOPointModBus",
+    "module_id": 1,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 3": {
+    "module_type": "LFOPointModBus",
+    "module_id": 2,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 4": {
+    "module_type": "LFOPointModBus",
+    "module_id": 3,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 5": {
+    "module_type": "LFOPointModBus",
+    "module_id": 4,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 6": {
+    "module_type": "LFOPointModBus",
+    "module_id": 5,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 7": {
+    "module_type": "LFOPointModBus",
+    "module_id": 6,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 8": {
+    "module_type": "LFOPointModBus",
+    "module_id": 7,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 9": {
+    "module_type": "LFOPointModBus",
+    "module_id": 8,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 10": {
+    "module_type": "LFOPointModBus",
+    "module_id": 9,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 11": {
+    "module_type": "LFOPointModBus",
+    "module_id": 10,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 12": {
+    "module_type": "LFOPointModBus",
+    "module_id": 11,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 13": {
+    "module_type": "LFOPointModBus",
+    "module_id": 12,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 14": {
+    "module_type": "LFOPointModBus",
+    "module_id": 13,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 15": {
+    "module_type": "LFOPointModBus",
+    "module_id": 14,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "LFO Buses LFO Bus 16": {
+    "module_type": "LFOPointModBus",
+    "module_id": 15,
+    "param_id": 0,
+    "param_name": "kParamValue"
+  },
+  "Routing Matrix A>Filter Balance": {
+    "module_type": "RoutingSlot",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Routing Matrix A>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamFXBus1Level"
+  },
+  "Routing Matrix A>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 0,
+    "param_id": 2,
+    "param_name": "kParamFXBus2Level"
+  },
+  "Routing Matrix B>Filter Balance": {
+    "module_type": "RoutingSlot",
+    "module_id": 1,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Routing Matrix B>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 1,
+    "param_id": 1,
+    "param_name": "kParamFXBus1Level"
+  },
+  "Routing Matrix B>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 1,
+    "param_id": 2,
+    "param_name": "kParamFXBus2Level"
+  },
+  "Routing Matrix C>Filter Balance": {
+    "module_type": "RoutingSlot",
+    "module_id": 2,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Routing Matrix C>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 2,
+    "param_id": 1,
+    "param_name": "kParamFXBus1Level"
+  },
+  "Routing Matrix C>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 2,
+    "param_id": 2,
+    "param_name": "kParamFXBus2Level"
+  },
+  "Routing Matrix Noise>Filter Balance": {
+    "module_type": "RoutingSlot",
+    "module_id": 3,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Routing Matrix Noise>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 3,
+    "param_id": 1,
+    "param_name": "kParamFXBus1Level"
+  },
+  "Routing Matrix Noise>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 3,
+    "param_id": 2,
+    "param_name": "kParamFXBus2Level"
+  },
+  "Routing Matrix Sub Osc>Filter Balance": {
+    "module_type": "RoutingSlot",
+    "module_id": 4,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Routing Matrix Sub Osc>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 4,
+    "param_id": 1,
+    "param_name": "kParamFXBus1Level"
+  },
+  "Routing Matrix Sub Osc>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 4,
+    "param_id": 2,
+    "param_name": "kParamFXBus2Level"
+  },
+  "Routing Matrix Filter 1>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 5,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Routing Matrix Filter 1>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 5,
+    "param_id": 1,
+    "param_name": "kParamFXBus1Level"
+  },
+  "Routing Matrix Filter 2>BUS1": {
+    "module_type": "RoutingSlot",
+    "module_id": 5,
+    "param_id": 2,
+    "param_name": "kParamFXBus2Level"
+  },
+  "Routing Matrix Filter 2>BUS2": {
+    "module_type": "RoutingSlot",
+    "module_id": 6,
+    "param_id": 0,
+    "param_name": "kParamFilterBalance"
+  },
+  "Noise OSC Level": {
+    "module_type": "Oscillator",
+    "module_id": 3,
+    "param_id": 1,
+    "param_name": "kParamVolume"
+  },
+  "Noise OSC Pan": {
+    "module_type": "Oscillator",
+    "module_id": 3,
+    "param_id": 2,
+    "param_name": "kParamPan"
+  },
+  "Noise OSC Pitch": {
+    "module_type": "WTOsc",
+    "module_id": 0,
+    "param_id": 0,
+    "param_name": "kParamWarp"
+  },
+  "Noise OSC Fine": {
+    "module_type": "NoiseOsc",
+    "module_id": 3,
+    "param_id": 0,
+    "param_name": "kParamColor"
+  },
+  "Noise OSC Phase": {
+    "module_type": "NoiseOsc",
+    "module_id": 3,
+    "param_id": 1,
+    "param_name": "kParamFine"
+  },
+  "Noise OSC Rand Phase": {
+    "module_type": "WTOsc",
+    "module_id": 3,
+    "param_id": 9,
+    "param_name": "kParamRandomPhase"
+  },
+  "Sub OSC Level": {
+    "module_type": "Oscillator",
+    "module_id": 4,
+    "param_id": 1,
+    "param_name": "kParamVolume"
+  },
+  "Sub OSC Pan": {
+    "module_type": "Oscillator",
+    "module_id": 4,
+    "param_id": 2,
+    "param_name": "kParamPan"
+  },
+  "Sub OSC Octave": {
+    "module_type": "Oscillator",
+    "module_id": 4,
+    "param_id": 3,
+    "param_name": "kParamOctave"
+  },
+  "Sub OSC Coarse Pitch": {
+    "module_type": "Oscillator",
+    "module_id": 4,
+    "param_id": 6,
+    "param_name": "kParamCoarsePit"
+  },
+  "Sub OSC Phase": {
+    "module_type": "WTOsc",
+    "module_id": 4,
+    "param_id": 8,
+    "param_name": "kParamInitialPhase"
+  },
+  "Global Main Tuning": {
+    "module_type": "Global",
+    "module_id": 0,
+    "param_id": 1,
+    "param_name": "kParamMasterTuning"
+  },
+  "Global Amp": {
+    "module_type": "Global",
+    "module_id": 0,
+    "param_id": 2,
+    "param_name": "kParamVoiceAmp"
+  },
+  "Global Porta Time": {
+    "module_type": "Global",
+    "module_id": 0,
+    "param_id": 3,
+    "param_name": "kParamPortamentoTime"
+  },
+  "Global Swing": {
+    "module_type": "Global",
+    "module_id": 0,
+    "param_id": 14,
+    "param_name": "kParamSwing"
+  },
+  "Global Transpose": {
+    "module_type": "Global",
+    "module_id": 0,
+    "param_id": 16,
+    "param_name": "kParamTranspose"
+  },
+  "Global Envelope Scaling": {
+    "module_type": "VoicePanel",
+    "module_id": 0,
+    "param_id": 58,
+    "param_name": "kParamGlobalScalingEnvTime"
+  },
+  "Global LFO Scaling": {
+    "module_type": "VoicePanel",
+    "module_id": 0,
+    "param_id": 59,
+    "param_name": "kParamGlobalScalingLfoTime"
+  }
+}
